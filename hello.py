@@ -9,3 +9,4 @@ print "hello world!"
 print 'hello world!'
 print 'lantian'
 print 'I am coming!'
+print 'ok'
